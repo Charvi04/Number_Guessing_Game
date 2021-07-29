@@ -1,5 +1,6 @@
 # This is a number guessing game in which you need to guess a number between 1 and 9. Lets see if you can the number in 5 moves.
 
+# Importing random component here
 import random
 
 # Creating the variables here
